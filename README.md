@@ -1,5 +1,5 @@
 
-## <font color="red">实习篇 [秋招篇](./another-page.html)</font> 
+## <font color="red">实习篇</font> [<font color="red">秋招篇</font>](./another-page.html) 
 
 ### 互联网
 
